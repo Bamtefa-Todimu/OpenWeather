@@ -43,7 +43,7 @@ function App() {
           <TiWeatherWindyCloudy size = {60}/>
         
       </div>
-      <h1>Open Weather App</h1>
+      <h1>Open Weather App V2</h1>
       <div className="card">
         <input onChange={(e) => setQuery(e.target.value)}
               value={query}
